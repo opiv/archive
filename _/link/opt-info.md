@@ -1,5 +1,5 @@
 # Archive Optimizer
-<img src="_/head.png" width="450">
+<img src="../head.png" width="450">
 
 <b>Join our Discord for the latest updates!</b> <a href="https://discord.gg/TWE77TBQjX"><code>discord.gg/TWE77TBQjX</code></a>
 
